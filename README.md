@@ -49,7 +49,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vinitdalal05032004&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=vinitdalal05032004-bit&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 - 🥇 AWS Certified Cloud Practitioner  
@@ -61,12 +61,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinitdalal05032004&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=vinitdalal05032004&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vinitdalal05032004-bit&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=vinitdalal05032004-bit&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitdalal05032004&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitdalal05032004-bit&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/vinitdalal05032004">
+<a href="https://github.com/vinitdalal05032004-bit">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -91,10 +91,8 @@
 
 ## 🐍 Contribution Snake
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vinitdalal05032004-bit/vinitdalal05032004-bit/output/github-contribution-grid-snake.svg" />
-</p>
 </p>
 
 ---
