@@ -90,6 +90,6 @@ Includes deep learning pipeline, segmentation & visualization tools.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vinitdalal05032004/vinitdalal05032004/output/snake.svg" />
 
 ###
