@@ -91,8 +91,10 @@
 
 ## 🐍 Contribution Snake
 
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/vinitdalal05032004/vinitdalal05032004/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/vinitdalal05032004-bit/vinitdalal05032004-bit/output/github-contribution-grid-snake.svg" />
+</p>
 </p>
 
 ---
