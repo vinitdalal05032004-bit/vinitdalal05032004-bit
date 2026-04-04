@@ -89,9 +89,13 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinitdalal05032004-bit/vinitdalal05032004-bit/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vinitdalal05032004-bit/vinitdalal05032004-bit/output/neon.gif" width="90%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinitdalal05032004-bit/vinitdalal05032004-bit/output/matrix.gif" width="45%" />
+  <img src="https://raw.githubusercontent.com/vinitdalal05032004-bit/vinitdalal05032004-bit/output/fire.gif" width="45%" />
+</p>
 ---
 
 ## 🔥 Developer Mindset
