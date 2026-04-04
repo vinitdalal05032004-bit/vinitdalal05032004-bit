@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Java • Spring Boot • React • AWS
+  🚀 Full Stack Developer | Building Scalable Web & AI Systems
 </h3>
 
 <p align="center">
@@ -15,8 +15,9 @@
 ## 🧠 About Me
 
 - 💼 Web Developer Intern @ **ICAN BPO**
-- 🤖 Building **AI systems (TerrainIQ - Computer Vision)**
-- ⚡ Strong in **Java, Spring Boot, React, AWS**
+- 🤖 Building **AI-powered systems (TerrainIQ - Computer Vision)**
+- ⚡ Skilled in **Java, Spring Boot, React & Backend Development**
+- 🧩 Strong problem-solving mindset with real-world experience
 - 🏆 Hackathon Builder (HAWKATHON 2026)
 - 📍 Mumbai, India
 
@@ -48,13 +49,9 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vinitdalal05032004-bit&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-- 🥇 AWS Certified Cloud Practitioner  
-- 🥈 Oracle Certified Java Programmer  
+- 🥇 Oracle Certified Java Programmer  
 - 🚀 Built TerrainIQ at HACKATHON 2026  
+- 💡 Developed real-world full-stack & AI-based applications  
 
 ---
 
@@ -97,8 +94,8 @@
 
 ---
 
-## 🔥 Developer Quote
+## 🔥 Developer Mindset
 
 <p align="center">
-  <i>"Code. Build. Break. Learn. Repeat."</i>
+  <i>"I build solutions, not just code."</i>
 </p>
