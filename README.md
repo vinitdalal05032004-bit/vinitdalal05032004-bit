@@ -58,12 +58,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinitdalal05032004-bit&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://streak-stats.demolab.com?user=vinitdalal05032004-bit&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinitdalal05032004-bit&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=vinitdalal05032004-bit&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitdalal05032004-bit&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinitdalal05032004-bit&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
